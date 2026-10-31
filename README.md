@@ -229,4 +229,4 @@ This repository serves as the official landing page for ScanTransfer. The softwa
 **Get the most recent version of ScanTransfer today!**
 
 ---
-**Last updated:** 2026-10-30 22:50:36 UTC
+**Last updated:** 2026-10-31 01:58:09 UTC
